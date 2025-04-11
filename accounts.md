@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gooyan Accounts
+title: Gooyan Account Help
 permalink: /accounts
 ---
 **Help topics**
