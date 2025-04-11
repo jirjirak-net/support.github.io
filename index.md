@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Gooyan Support
+title: Gooyan Help
 permalink: /
 ---
-# [Gooyan Help](#)
-
 **[Gooyan Account](/accounts.md)**
