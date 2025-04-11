@@ -1,5 +1,8 @@
-<link rel="icon" href="{{ site.favicon }}" type="image/svg+xml">
-
+---
+layout: default
+title: Gooyan Support
+permalink: /
+---
 # [Gooyan Help](#)
 
 **[Gooyan Account](/accounts.md)**
