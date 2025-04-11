@@ -2,6 +2,4 @@
 
 # [Gooyan Help](#)
 
-**Gooyan Account**
-
-[Account](/accounts)
+**[Gooyan Account](/accounts)**
