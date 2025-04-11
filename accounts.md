@@ -2,6 +2,6 @@
 
 **Help topics**
 
-What is a Gooyan Account?
-Create a Gooyan Account
-Create a strong password & a more secure account
+- What is a Gooyan Account?
+- Create a Gooyan Account
+- Create a strong password & a more secure account
