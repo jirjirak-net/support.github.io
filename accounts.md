@@ -1,5 +1,8 @@
-<link rel="icon" href="{{ site.favicon }}" type="image/svg+xml">
-
+---
+layout: default
+title: Gooyan Accounts
+permalink: /accounts
+---
 **Help topics**
 
 - What is a Gooyan Account?
