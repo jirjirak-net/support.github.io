@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="icon" href="{{ site.favicon }}" type="image/svg+xml">
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+    <!-- Other head elements like CSS links can go here -->
+</head>
+<body>
+    {% include header.html %}
+    {{ content }}
+    {% include footer.html %}
+    
+    <script>
+        // Get the current year
+        const currentYear = new Date().getFullYear();
+        // Set the current year in the footer
+        document.getElementById('currentYear').textContent = currentYear;
+    </script>
+</body>
+</html>
