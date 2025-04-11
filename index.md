@@ -4,4 +4,4 @@
 
 **Gooyan Account**
 
-[Account](/account)
+[Account](/accounts)
