@@ -47,14 +47,14 @@ details[open] {
   <summary style="font-weight: bold; color: #007bff;">Configuring Element Android App</summary>
   <br />
   <ul>
-    <li>Update the matrix server to **chat.jirjirak.net**.</li>
+    <li>Update the matrix server to <strong>chat.jirjirak.net</strong>.</li>
     <li style="list-style-type:none;">
       <img src="/assets/images/config-element-android-landing.png" alt="config-element-android-landing" height="400" />
     </li>
     <li style="list-style-type:none;">
       <img src="/assets/images/config-element-android-update-server.png" alt="config-element-android-update-server" height="400" />
     </li>
-    <li>Select the **"Continue with Gooyan"** option for Single Sign-On (SSO) authentication.</li>
+    <li>Select the <strong>Continue with Gooyan</strong> option for Single Sign-On (SSO) authentication.</li>
     <li style="list-style-type:none;">
       <img src="/assets/images/config-element-android-sso.png" alt="config-element-android-sso" height="400" />
     </li>
@@ -66,14 +66,14 @@ details[open] {
   <summary style="font-weight: bold; color: #28a745;">پیکربندی نرم افزار المنت برای اندروید</summary>
   <br />
   <ul>
-    <li>سرور ماتریس را به **chat.jirjirak.net** تغییر دهید.</li>
+    <li>سرور ماتریس را به <strong>chat.jirjirak.net</strong> تغییر دهید.</li>
     <li style="list-style-type:none;">
       <img src="/assets/images/config-element-android-landing.png" alt="config-element-android-landing" height="400" />
     </li>
     <li style="list-style-type:none;">
       <img src="/assets/images/config-element-android-update-server.png" alt="config-element-android-update-server" height="400" />
     </li>
-    <li>گزینه **"ادامه با گویان"** را برای احراز هویت تک‌امضاء (SSO) انتخاب کنید.</li>
+    <li>گزینه <strong>ادامه با گویان</strong> را برای احراز هویت تک‌امضاء (SSO) انتخاب کنید.</li>
     <li style="list-style-type:none;">
       <img src="/assets/images/config-element-android-sso.png" alt="config-element-android-sso" height="400" />
     </li>
