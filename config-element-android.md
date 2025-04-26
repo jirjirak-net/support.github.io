@@ -35,10 +35,11 @@ details[open] summary {
 
 <details>
   <summary style="font-weight: bold; color: #007bff;">Configuring Element Android App</summary>
-  
+
+- <img src="/assets/images/config-element-android-landing.png" alt="config-element-android-landing" height="400" /> Element landing page
 - Update the matrix server to **chat.jirjirak.net**.
 
-  <img src="/assets/images/config-element-android-landing.png" alt="config-element-android-landing" height="400" />
+  
   
 - Select the **"Continue with Gooyan"** option for Single Sign-On (SSO) authentication.
 
