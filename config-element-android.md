@@ -36,9 +36,9 @@ details[open] summary {
 <details>
   <summary style="font-weight: bold; color: #007bff;">Configuring Element Android App</summary>
   
-  - Update the matrix server to **chat.jirjirak.net**.
-  - Select the **"Continue with Gooyan"** option for Single Sign-On (SSO) authentication.
-  - Log in using your Gooyan account credentials.
+- Update the matrix server to **chat.jirjirak.net**.
+- Select the **"Continue with Gooyan"** option for Single Sign-On (SSO) authentication.
+- Log in using your Gooyan account credentials.
 
 </details>
 
