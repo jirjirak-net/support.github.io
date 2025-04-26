@@ -61,7 +61,7 @@ details[open] summary {
 
     <img src="/assets/images/config-element-android-update-server.png" alt="config-element-android-update-server" height="400" />
     
-  - با استفاده از اطلاعات کاربری خود در گوپیان وارد سیستم شوید.
+  - با استفاده از اطلاعات کاربری خود در گویان وارد سیستم شوید.
 
     <img src="/assets/images/config-element-android-sso.png" alt="config-element-android-sso" height="400" />
 
