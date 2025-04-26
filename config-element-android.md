@@ -6,7 +6,7 @@ permalink: /config-element-android
 **Help topics**
 
 <details>
-  <summary style="font-weight: bold; color: #007bff;">English Text</summary>
+  <summary style="font-weight: bold; color: #007bff;">Configuring Element Android App</summary>
   
   - Update the matrix server to **chat.jirjirak.net**.
   - Select the **"Continue with Gooyan"** option for Single Sign-On (SSO) authentication.
@@ -15,7 +15,7 @@ permalink: /config-element-android
 </details>
 
 <details>
-  <summary style="font-weight: bold; color: #28a745;">Persian Translation</summary>
+  <summary style="font-weight: bold; color: #28a745;">پیکربندی نرم افزار المنت برای اندروید</summary>
   
   - سرور ماتریس را به **chat.jirjirak.net** تغییر دهید.
   - گزینه **"ادامه با گوپیان"** را برای احراز هویت تک‌امضاء (SSO) انتخاب کنید.
