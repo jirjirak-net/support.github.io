@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gooyan Help
+title: Jirjirak Help
 permalink: /
 ---
 **[Configuring Element Android App](/element-android.md)**
