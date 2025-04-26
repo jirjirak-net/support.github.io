@@ -3,6 +3,34 @@ layout: default
 title: Configure Element Android App
 permalink: /config-element-android
 ---
+<style>
+details {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+summary {
+  font-size: 1.1em;
+  font-weight: bold;
+  cursor: pointer;
+  padding: 5px;
+  background-color: #e9e9e9;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+summary:hover {
+  background-color: #d3d3d3;
+}
+
+details[open] summary {
+  color: #007BFF;
+}
+</style>
+
 **Help topics**
 
 <details>
