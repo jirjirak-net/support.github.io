@@ -35,24 +35,21 @@ details[open] summary {
 
 <details>
   <summary style="font-weight: bold; color: #007bff;">Configuring Element Android App</summary>
-
+  <br />
   <ul>
+    <li>Update the matrix server to **chat.jirjirak.net**.</li>
     <li style="list-style-type:none;">
       <img src="/assets/images/config-element-android-landing.png" alt="config-element-android-landing" height="400" />
     </li>
-    <li>
-      Update the matrix server to **chat.jirjirak.net**.
+    <li>Select the **"Continue with Gooyan"** option for Single Sign-On (SSO) authentication.</li>
+    <li style="list-style-type:none;">
+      <img src="/assets/images/config-element-android-update-server.png" alt="config-element-android-update-server" height="400" />
+    </li>
+    <li>Log in using your Gooyan account credentials.</li>
+    <li style="list-style-type:none;">
+      <img src="/assets/images/config-element-android-sso.png" alt="config-element-android-sso" height="400" />
     </li>
   </ul>
-
-- Select the **"Continue with Gooyan"** option for Single Sign-On (SSO) authentication.
-
-  <img src="/assets/images/config-element-android-update-server.png" alt="config-element-android-update-server" height="400" />
-  
-- Log in using your Gooyan account credentials.
-
-  <img src="/assets/images/config-element-android-sso.png" alt="config-element-android-sso" height="400" />
-
 </details>
 
 <details>
