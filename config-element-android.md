@@ -5,38 +5,39 @@ permalink: /config-element-android
 ---
 <style>
 details {
-  background-color: #fafafa;   /* Very light gray background */
-  border: 1px solid #ddd;      /* Light gray border */
-  padding: 10px 15px;           /* Padding for the content */
-  margin-bottom: 15px;          /* Spacing between details sections */
-  border-radius: 8px;           /* Rounded corners */
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
-  transition: all 0.3s ease;    /* Smooth transition */
+  background-color: #f7f7f7;  /* Light gray background */
+  border: 1px solid #e0e0e0;  /* Soft border */
+  padding: 15px;               /* Generous padding for content */
+  margin-bottom: 20px;         /* Space between expandable sections */
+  border-radius: 8px;          /* Rounded corners */
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);  /* Subtle shadow */
+  transition: all 0.3s ease;   /* Smooth transition when opening */
 }
 
 summary {
-  font-size: 1.1em;             /* Slightly larger font for summary */
-  font-weight: bold;            /* Bold text */
-  color: #333;                  /* Dark gray text for readability */
-  cursor: pointer;             /* Pointer cursor on hover */
-  padding: 8px;                 /* Padding around summary text */
-  background-color: #e0e0e0;    /* Medium gray for the summary background */
-  border-radius: 5px;           /* Rounded corners for the summary */
+  font-size: 1.15em;            /* Slightly larger font for better readability */
+  font-weight: 600;             /* Semi-bold text */
+  color: #202124;              /* Dark text for contrast */
+  cursor: pointer;             /* Pointer cursor to indicate interactivity */
+  padding: 10px 15px;           /* Padding around the summary text */
+  background-color: #f1f3f4;   /* Lighter gray background for summary */
+  border-radius: 6px;           /* Slightly rounded corners */
   transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth hover effect */
+  margin: 0;                    /* Remove default margins */
 }
 
 summary:hover {
-  background-color: #d0d0d0;    /* Darker gray on hover */
-  transform: translateY(-2px);  /* Slight lift effect */
+  background-color: #e8e8e8;    /* Slightly darker gray on hover */
+  transform: translateY(-1px);  /* Slight lift effect on hover */
 }
 
 details[open] summary {
-  color: #555;                  /* Medium gray when expanded */
+  color: #1a73e8;               /* Google blue for active/expanded state */
 }
 
 details[open] {
-  background-color: #f5f5f5;    /* Slightly darker gray when expanded */
-  border-color: #bbb;            /* Darker border when expanded */
+  background-color: #e8f0fe;    /* Light blue background when open */
+  border-color: #1a73e8;        /* Blue border when expanded */
 }
 </style>
 
