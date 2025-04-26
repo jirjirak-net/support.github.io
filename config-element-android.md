@@ -38,10 +38,15 @@ details[open] summary {
   
 - Update the matrix server to **chat.jirjirak.net**.
 
-<img src="/assets/images/config-element-android-landing.png" alt="config-element-android-landing" height="400" />
+  <img src="/assets/images/config-element-android-landing.png" alt="config-element-android-landing" height="400" />
   
 - Select the **"Continue with Gooyan"** option for Single Sign-On (SSO) authentication.
+
+  <img src="/assets/images/config-element-android-update-server.png" alt="config-element-android-update-server" height="400" />
+  
 - Log in using your Gooyan account credentials.
+
+  <img src="/assets/images/config-element-android-sso.png" alt="config-element-android-sso" height="400" />
 
 </details>
 
