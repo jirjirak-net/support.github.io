@@ -41,30 +41,32 @@ details[open] summary {
     <li style="list-style-type:none;">
       <img src="/assets/images/config-element-android-landing.png" alt="config-element-android-landing" height="400" />
     </li>
-    <li>Select the **"Continue with Gooyan"** option for Single Sign-On (SSO) authentication.</li>
     <li style="list-style-type:none;">
       <img src="/assets/images/config-element-android-update-server.png" alt="config-element-android-update-server" height="400" />
     </li>
-    <li>Log in using your Gooyan account credentials.</li>
+    <li>Select the **"Continue with Gooyan"** option for Single Sign-On (SSO) authentication.</li>
     <li style="list-style-type:none;">
       <img src="/assets/images/config-element-android-sso.png" alt="config-element-android-sso" height="400" />
     </li>
+    <li>Log in using your Gooyan account credentials.</li>
   </ul>
 </details>
 
 <details>
   <summary style="font-weight: bold; color: #28a745;">پیکربندی نرم افزار المنت برای اندروید</summary>
-  
-  - سرور ماتریس را به **chat.jirjirak.net** تغییر دهید.
-
-    <img src="/assets/images/config-element-android-landing.png" alt="config-element-android-landing" height="400" />
-    
-  - گزینه **"ادامه با گویان"** را برای احراز هویت تک‌امضاء (SSO) انتخاب کنید.
-
-    <img src="/assets/images/config-element-android-update-server.png" alt="config-element-android-update-server" height="400" />
-    
-  - با استفاده از اطلاعات کاربری خود در گویان وارد سیستم شوید.
-
-    <img src="/assets/images/config-element-android-sso.png" alt="config-element-android-sso" height="400" />
-
+  <br />
+  <ul>
+    <li>سرور ماتریس را به **chat.jirjirak.net** تغییر دهید.</li>
+    <li style="list-style-type:none;">
+      <img src="/assets/images/config-element-android-landing.png" alt="config-element-android-landing" height="400" />
+    </li>
+    <li style="list-style-type:none;">
+      <img src="/assets/images/config-element-android-update-server.png" alt="config-element-android-update-server" height="400" />
+    </li>
+    <li>گزینه **"ادامه با گویان"** را برای احراز هویت تک‌امضاء (SSO) انتخاب کنید.</li>
+    <li style="list-style-type:none;">
+      <img src="/assets/images/config-element-android-sso.png" alt="config-element-android-sso" height="400" />
+    </li>
+    <li>با استفاده از اطلاعات کاربری خود در گویان وارد سیستم شوید.</li>
+  </ul>
 </details>
