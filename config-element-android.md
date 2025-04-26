@@ -54,7 +54,15 @@ details[open] summary {
   <summary style="font-weight: bold; color: #28a745;">پیکربندی نرم افزار المنت برای اندروید</summary>
   
   - سرور ماتریس را به **chat.jirjirak.net** تغییر دهید.
+
+    <img src="/assets/images/config-element-android-landing.png" alt="config-element-android-landing" height="400" />
+    
   - گزینه **"ادامه با گویان"** را برای احراز هویت تک‌امضاء (SSO) انتخاب کنید.
+
+    <img src="/assets/images/config-element-android-update-server.png" alt="config-element-android-update-server" height="400" />
+    
   - با استفاده از اطلاعات کاربری خود در گوپیان وارد سیستم شوید.
+
+    <img src="/assets/images/config-element-android-sso.png" alt="config-element-android-sso" height="400" />
 
 </details>
