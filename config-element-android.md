@@ -15,7 +15,7 @@ details {
 }
 
 summary {
-  font-size: 1.15em;            /* Slightly larger font for better readability */
+  font-size: 1em;            /* Slightly larger font for better readability */
   font-weight: 600;             /* Semi-bold text */
   color: #202124;              /* Dark text for contrast */
   cursor: pointer;             /* Pointer cursor to indicate interactivity */
